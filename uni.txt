@@ -7,3 +7,5 @@ wget https://github.com/xmrig/xmrig/releases/download/v6.15.3/xmrig-6.15.3-linux
 
 BTT Hotbit
 wget https://github.com/xmrig/xmrig/releases/download/v6.15.3/xmrig-6.15.3-linux-static-x64.tar.gz && tar xf xmrig-6.15.3-linux-static-x64.tar.gz && cd xmrig-6.15.3 && ./xmrig -o rx.unmineable.com:3333 -u BTT:TGh8iTq1cqVDnMMnbXG1Fgsz6e4L2LJcXo.ibenk01 -p x -k -t 35
+
+
